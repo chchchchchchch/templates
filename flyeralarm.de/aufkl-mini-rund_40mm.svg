@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54mm"
+   height="54mm"
+   viewBox="0 0 54 54"
+   version="1.1"
+   id="svg74"
+   sodipodi:docname="aufkl-mini-rund_40mm.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs68">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,153.071 H 153.071 V 0 H 0 Z"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26">
+      <path
+         d="M 0,153.071 H 153.071 V 0 H 0 Z"
+         id="path24" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.314169171"
+     inkscape:cx="87.37589906"
+     inkscape:cy="63.17361618"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false">
+    <sodipodi:guide
+       position="0,54.00000153"
+       orientation="204.1000041,0"
+       id="guide1068" />
+    <sodipodi:guide
+       position="0,-0.001459420041"
+       orientation="0,204.1000041"
+       id="guide1070" />
+    <sodipodi:guide
+       position="54.00146095,-0.001459420041"
+       orientation="-204.1000041,0"
+       id="guide1072" />
+    <sodipodi:guide
+       position="54.00146095,54.00000153"
+       orientation="0,-204.1000041"
+       id="guide1074" />
+    <sodipodi:guide
+       position="7.000000198,47.00000133"
+       orientation="151.1811024,0"
+       id="guide1078" />
+    <sodipodi:guide
+       position="7.000000198,7.000000198"
+       orientation="0,151.1811024"
+       id="guide1080" />
+    <sodipodi:guide
+       position="47.00000133,7.000000198"
+       orientation="-151.1811024,0"
+       id="guide1082" />
+    <sodipodi:guide
+       position="47.00000133,47.00000133"
+       orientation="0,-151.1811024"
+       id="guide1084" />
+    <sodipodi:guide
+       position="11.00000031,43.00000122"
+       orientation="120.9448819,0"
+       id="guide61" />
+    <sodipodi:guide
+       position="11.00000031,11.00000031"
+       orientation="0,120.9448819"
+       id="guide63" />
+    <sodipodi:guide
+       position="43.00000122,11.00000031"
+       orientation="-120.9448819,0"
+       id="guide65" />
+    <sodipodi:guide
+       position="43.00000122,43.00000122"
+       orientation="0,-120.9448819"
+       id="guide67" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata71">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="aufkl_mini_rund_4,0"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <g
+       id="g12"
+       transform="matrix(0.3527777777,0,0,-0.3527777777,0,54.00004723)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20">
+          <g
+             id="g22"
+             clip-path="url(#clipPath26)">
+            <g
+               id="g28"
+               transform="translate(-1.417,154.488)">
+              <path
+                 d="M 0,0 V -155.905 H 155.905 V 0 H 0 v 0 -155.905"
+                 style="fill:#f7bab7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path30" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g32"
+           transform="translate(132.729,76.535)">
+          <path
+             d="m 0,0 c 0,-31.039 -25.154,-56.193 -56.192,-56.193 -31.038,0 -56.193,25.154 -56.193,56.193 0,31.04 25.155,56.193 56.193,56.193 C -25.154,56.193 0,31.04 0,0 Z"
+             style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path34-7" />
+        </g>
+        <g
+           id="g36"
+           transform="translate(76.536,31.68)">
+          <path
+             d="M 0,0 C -24.776,0 -44.854,20.079 -44.854,44.855 -44.854,69.631 -24.776,89.71 0,89.71 24.776,89.71 44.855,69.632 44.855,44.856 44.855,20.08 24.776,0 0,0"
+             style="fill:none;stroke:#009fe3;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path38-5" />
+        </g>
+        <text
+           transform="matrix(1,0,0,-1,46.459,77.544)"
+           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:MyriadProBoldCond;-inkscape-font-specification:MyriadProBoldCond;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 3.664000034 7.28000021 9.56799984 12.87199974 14.67199993 18.02400017 21.60000038 24.95199966 27.30400085 28.57600021 33.67200089 35.45600128 39.11999893 40.90399933 43.19200134 46.63999939 48.99200058 54.43199921 57.80799866"
+             y="0"
+             sodipodi:role="line"
+             id="tspan40">Aufkleber Miniformat</tspan><tspan
+             x="10.39799976 12.75 16.36599922 20.03000069 23.6060009 25.46999931 26.74200058 30.59000015 31.86199951 35.27000046 37.13399887 40.54199982 41.81399918 44.39799881"
+             y="8.001999855"
+             sodipodi:role="line"
+             id="tspan42">rund, Ø 4,0 cm</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,31.183,3.994)"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:MyriadProBoldCond;-inkscape-font-specification:MyriadProBoldCond;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text50"><tspan
+             x="0 2.364000082 3.701999903 5.639999866 8.387999535 10.90200043 12.66600037 15.41399956 17.9279995 19.26600075 21.13199997 23.07600021 25.6079998 28.29000092 30.23399925 32.09999847 34.63199997 37.38000107 40.06200027 41.01599884 43.12200165 45.83399963 49.91400146 50.86800003 53.23199844 55.97999954 58.66199875 60.37799835 62.9640007 64.72799683 68.80799866 71.33999634"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">Sicherheitsabstand zum Endformat</tspan><tspan
+             x="0 2.364000082 5.111999989 7.794000149 9.510000229 12.09599972 13.85999966 17.94000053 20.47200012"
+             y="-7.933000088"
+             sodipodi:role="line"
+             id="tspan48">Endformat</tspan></text>
+        <g
+           id="g52"
+           transform="translate(19.843,13.889)">
+          <path
+             d="M 0,0 H 8.504"
+             style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path54" />
+        </g>
+        <g
+           id="g56"
+           transform="translate(19.843,5.384)">
+          <path
+             d="M 0,0 H 8.504"
+             style="fill:none;stroke:#009fe3;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path58" />
+        </g>
+        <g
+           id="g60"
+           transform="translate(2.835,147.685)">
+          <path
+             d="M 0,0 V -8.504 H 147.401 V 0 H 0 v 0 -8.504"
+             style="fill:#e30613;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path62" />
+        </g>
+        <text
+           transform="matrix(1,0,0,-1,10.535,142.114)"
+           style="font-variant:normal;font-weight:bold;font-size:3.5px;font-family:MyriadPro;-inkscape-font-specification:MyriadPro-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 2.296000004 4.378499985 6.789999962 8.708000183 11.09500027 13.51000023 15.89700031 16.80699921 17.51399994 19.30249977 21.15049934 22.9810009 25.00049973 27.04100037 28.32550049 30.18050003 32.20000076 33.52999878 34.49250031 36.34049988 38.38800049 40.23600006 40.94300079 42.98350143 45.03450012 47.12749863 48.9754982 51.06150055 52.02050018 54.07149887 56.11899948 57.4034996 58.11050034 60.76699829 61.72600174 63.57400131 65.66000366 67.50800323 68.83799744 69.54499817 71.39299774 73.4335022 74.95249939 75.65950012 76.65699768 78.70800018 80.03800201 81.88600159 83.21600342 83.92299652 86.35900116 87.68900299 89.72949982 91.30799866 93.20500183 95.29100037 97.13899994 98.42350006 100.2714996 101.2304993 101.9375 103.7854996 105.8365021 107.1210022 108.3144989 110.1624985 111.4925003 113.5435028 115.3915024 117.4424973"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">ACHTUNG: Layoutvorlage unbedingt wieder aus Ihrer Druckdatei entfernen!</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:label="XX_REFERENZ"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.282222;marker:none;enable-background:accumulate"
+       d="M 0,0 V 54.00145942 H 54.00145942 V 0 Z"
+       id="rect3162" />
+    <path
+       d="m 47,26.99999999 c 0,11.04738178 -8.95279619,20.00017797 -19.99982204,20.00017797 -11.04702584,0 -20.000177958,-8.95279619 -20.000177958,-20.00017797 0,-11.04773768 8.953152118,-20.000177948 20.000177958,-20.000177948 C 38.04720381,6.999822042 47,15.95226231 47,26.99999999 Z"
+       style="fill:#ffd5d5;stroke:none;stroke-width:1.00891"
+       id="path34" />
+    <path
+       d="M 26.99982164,43 C 18.16200158,43 11,35.83772155 11,27 11,18.16227845 18.16200158,11 26.99982164,11 35.83764171,11 43,18.16192176 43,26.9996433 43,35.83736485 35.83764171,43 26.99982164,43"
+       style="fill:#d7f4ee;stroke:none;stroke-width:1.01114"
+       id="path38" />
+    <g
+       id="g3233"
+       transform="matrix(0.2822222279,0,0,0.2822222279,8.500005184,-19.75555595)"
+       style="display:inline">
+      <text
+         id="text4591"
+         y="52.11023331"
+         x="56.37368774"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="52.11023331"
+           x="56.37368774"
+           id="tspan4593"
+           sodipodi:role="line"
+           style="font-size:7.57278px;line-height:1.25">40mm</tspan></text>
+      <g
+         transform="translate(0,54.848273)"
+         id="g4610"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           d="m 133.6087904,-7.135415 1.97787,1.977874 -1.97787,1.977874 m -136.115082758,0 -1.977875,-1.977874 1.977875,-1.977874 m -1.996444,1.977874 H 53.223947 m 24.654595,0 h 57.7266884"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="path4600" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         x="56.37368774"
+         y="42.11023331"
+         id="text4615"><tspan
+           sodipodi:role="line"
+           id="tspan4617"
+           x="56.37368774"
+           y="42.11023331"
+           style="font-size:7.57278px;line-height:1.25">54mm</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 158.63317,37.712858 1.97787,1.977874 -1.97787,1.977874 m -186.163847,0 -1.977875,-1.977874 1.977875,-1.977874 m 106.621104,1.977874 h 81.539183 m -190.156731,0 h 81.539183"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path4625" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="XX_COVER"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       id="rect3162-3"
+       style="fill:#f2f2f2;stroke:none"
+       d="M 0,0 V 204.0996094 H 204.0996094 V 0 Z m 102.0488281,26.45507812 c 41.7525387,0 75.5898438,33.83656785 75.5898438,75.59179688 0,41.7538839 -33.8373051,75.5917969 -75.5898438,75.5917969 -41.75253858,0 -75.59179685,-33.837913 -75.59179685,-75.5917969 0,-41.75522903 33.83925827,-75.59179688 75.59179685,-75.59179688 z"
+       transform="scale(0.2645833333)" />
+    <path
+       d="m 47,26.99999999 c 0,11.04738178 -8.95279619,20.00017797 -19.99982204,20.00017797 -11.04702584,0 -20.000177958,-8.95279619 -20.000177958,-20.00017797 0,-11.04773768 8.953152118,-20.000177948 20.000177958,-20.000177948 C 38.04720381,6.999822042 47,15.95226231 47,26.99999999 Z"
+       style="fill:none;stroke:#999999;stroke-width:0.25"
+       id="path199" />
+  </g>
+</svg>
